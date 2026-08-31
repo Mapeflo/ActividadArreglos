@@ -22,7 +22,6 @@ public class RecorridoMatriz {
 
         System.out.println();
 
-        // 2. Recorrer la matriz por columnas
         System.out.println("Recorrido por columnas:");
         System.out.println();
 
